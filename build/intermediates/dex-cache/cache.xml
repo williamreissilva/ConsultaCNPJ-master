@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f3f16a51a3bbab85bdeab1b9b396592a5f712933\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="972d451484b6b71489282681655cde1517a44348">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f32e314e4bc20ee38fcbcae17f119b1f3bfda396\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_819368dbe8124bb012f98d32eef23be26b33c019\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_54a0a4ab6bf2eecd3a7cfeba00d6daf35375233e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_97f7b1cf66536ca4710fe88757c451f129db1240\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_20c6b6b98420901b6d13b15961825e6aa6460e76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_3aa4d5c08e5379558c322e752b8fd44da2e0e8f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_170ebeb3bb6808556ae16f979e88bcd0a9aa6f1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_0fb9840e9630104382a9cde36ac86188ef29e50a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_bb28e87fc5b078f3e1007b54e9edbd6a236b0ae5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_52f19db0454354bcefb5b593f375f55c46424b3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_54ebb7518b3917832217121c0dfb3a1ffd0c76aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-1.9.0_a16be63c407cd3ec1268fe74adc5307dcf345a4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.5\7a15a7db50f86c4b64aa3367424a60e3a325b8f1\okhttp-2.7.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.7.5_cec6505caebb6703866d3229c0176c750db8bf23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_2a12c24eae96942261aa08ca92882e80b85e3998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_247a0f15ed20402261ced0abc056f0577b36eaeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_8e3a6e5db9821d2a2e170cb54488130b607f87d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_f8c0f4314292722c7bc1621bf34b40b872c39eae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_534ab97cacac6fbdc1a053ba57cfde8363450fec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_2923f932dd868194ed04669618535aae450e4fe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1f544fee3d8229375f668acb2effb84316912a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_d50ad6e59e7858aa1b1961adc06bf5a573b5128c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b10abb2dae6c2aa601b0682982b255bce472044">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_045b8668cf8b6b08914e038994472c335da40245\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\willi\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\willi\Documents\ConsultaCNPJ-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_bf3573c5df509a16360185ffc8d3d6f7962ca0e6\classes.dex" />
+    </item>
+
+</items>

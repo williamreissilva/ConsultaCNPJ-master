@@ -1,0 +1,7 @@
+#Fri Oct 21 22:53:30 BRST 2016
+base.0=C\:\\Users\\willi\\Documents\\ConsultaCNPJ-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f32e314e4bc20ee38fcbcae17f119b1f3bfda396
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\willi\\Documents\\ConsultaCNPJ-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_045b8668cf8b6b08914e038994472c335da40245\\classes.dex
+base.1=C\:\\Users\\willi\\Documents\\ConsultaCNPJ-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_045b8668cf8b6b08914e038994472c335da40245
+file.0=C\:\\Users\\willi\\Documents\\ConsultaCNPJ-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f32e314e4bc20ee38fcbcae17f119b1f3bfda396\\classes.dex
